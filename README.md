@@ -1,4 +1,4 @@
-# 🌐 Multi-Language Calculator with Persistent Dark Mode
+# 🌐 Multi-Language TAX Calculator with Persistent Dark Mode
 
 A responsive and accessible calculator app that supports multiple languages and a persistent dark mode experience. Built with usability, accessibility, and modern UI best practices in mind.
 
