@@ -44,4 +44,4 @@ Live Demo [ https://taxcalculatorxisuru.netlify.app/ ]
 
 ## Contact Me
 
-isurujayanada2002@gmail.com
+E-Mail [ isurujayanada2002@gmail.com ]
