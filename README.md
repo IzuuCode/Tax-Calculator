@@ -38,7 +38,7 @@ A responsive and accessible calculator app that supports multiple languages and 
 
 ---
 
-Live Demo [ https://taxcalculatorxisuru.netlify.app/ ]
+> Live Demo [ https://taxcalculatorxisuru.netlify.app/ ]
 
 ---
 
